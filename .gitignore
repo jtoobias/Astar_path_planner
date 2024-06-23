@@ -15,7 +15,11 @@
 *.so
 *.dylib
 *.dll
+*.dSYM
 
+.DS_Store
+tempCodeRunnerFile.cpp
+tempCodeRunnerFile.h
 # Fortran module files
 *.mod
 *.smod
