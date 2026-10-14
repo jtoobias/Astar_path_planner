@@ -1,2 +1,3 @@
 # Astar_path_planner
-Basic astar path planner for practice
+Basic A* path planner for practice. Plans and shows the planned path around obstacles inside the terminal.
+
